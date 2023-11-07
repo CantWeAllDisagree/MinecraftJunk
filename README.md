@@ -8,6 +8,9 @@
 * https://modrinth.com/mod/tempad
 * https://modrinth.com/mod/orb-of-origin-rework
 * https://modrinth.com/mod/origins
+* https://modrinth.com/mod/origins-plus-plus
+* https://www.curseforge.com/minecraft/mc-mods/phantoms-see-phantoms
+* https://www.curseforge.com/minecraft/mc-mods/mrplagues-warper-origin
 * https://modrinth.com/mod/sync-fabric
 * https://www.curseforge.com/minecraft/mc-mods/origins-classes
 * https://modrinth.com/mod/simple-voice-chat
