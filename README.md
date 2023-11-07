@@ -2,7 +2,7 @@
 
 
 # Server's Dependant mods 
-* Removed Modpack Update Checker, Charm & Shield Overhaul
+* Removed Modpack Update Checker,Steam & Rails, Charm & Shield Overhaul
 * https://modrinth.com/mod/guarding
 * https://www.curseforge.com/minecraft/mc-mods/akashic-tome-of-tools-fabric
 * https://modrinth.com/mod/tempad
