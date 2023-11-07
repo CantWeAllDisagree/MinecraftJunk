@@ -15,6 +15,8 @@
 * https://www.curseforge.com/minecraft/mc-mods/origins-classes
 * https://modrinth.com/mod/simple-voice-chat
 * https://modrinth.com/mod/simple-voice-radio
+* https://modrinth.com/mod/mavm
+* https://modrinth.com/mod/mavapi
 
 
 ## Client Additions
@@ -30,3 +32,4 @@
 * https://modrinth.com/mod/packet-fixer
 * https://modrinth.com/mod/badpackets
 * https://modrinth.com/mod/do-a-barrel-roll
+* https://www.curseforge.com/minecraft/mc-mods/axolotl-bucket-fix
