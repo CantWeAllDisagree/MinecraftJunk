@@ -10,6 +10,8 @@
 * https://modrinth.com/mod/origins
 * https://modrinth.com/mod/sync-fabric
 * https://www.curseforge.com/minecraft/mc-mods/origins-classes
+* https://modrinth.com/mod/simple-voice-chat
+* https://modrinth.com/mod/simple-voice-radio
 
 
 ## Client Additions
