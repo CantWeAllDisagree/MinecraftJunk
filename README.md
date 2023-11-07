@@ -22,7 +22,7 @@
 * https://modrinth.com/mod/advancedchatbox
 * https://modrinth.com/mod/advancedchatlog
 * https://www.curseforge.com/minecraft/mc-mods/malilib
-* https://modrinth.com/mod/mod-loading-screenw
+* https://modrinth.com/mod/mod-loading-screen
 * https://modrinth.com/mod/krypton
 * https://modrinth.com/mod/packet-fixer
 * https://modrinth.com/mod/badpackets
