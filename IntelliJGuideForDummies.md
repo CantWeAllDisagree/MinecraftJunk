@@ -1,11 +1,11 @@
-![fordummies](https://github.com/CantWeAllDisagree/MinecraftJunk/assets/110773497/ff655889-4f4f-4ef4-9a59-f4e5cbe58672)
+
 # How to mod Minecraft the easy way For Dummies 
 
-Today I will teach you how to make your own mod in minecraft versions (1.14.* {Fabric} & 1.16.5 {Forge}) and onwards.
+Today I will teach you how to make your own mod in Minecraft versions (1.14.* {Fabric} & 1.16.5 {Forge}) and onwards.
 
 This does not teach you how to install or play Minecraft, I'm pretty sure we all learned that at a early enough age.
 
-## Instructions
+## Inital Setup
 
 ### [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 First we are going to need our [IDE](https://en.wikipedia.org/wiki/Integrated_development_environment) for making the mod IntelliJ Idea Community Edition. This is the main program for making mods for minecraft. 
@@ -35,11 +35,47 @@ On the next page of the installer I highly recommend these options as the defaul
 
 ![image](https://github.com/CantWeAllDisagree/MinecraftJunk/assets/110773497/548e22d5-aef2-4f93-8f54-47b10723336e)
 
-Then continue with the install as normal.
+Then continue with the install as normal. Once it has finished it will prompt you to reboot.
+
 
 </details>
 
+Once you have installed IDEA, after the eula and anaylitics first-time options it will auto-detect if you have a Java jdk already installed, and prompt you to install one if you do not. If you have multiple jdk install versions it will let you pick your default for projects.
 
+![image](https://github.com/CantWeAllDisagree/MinecraftJunk/assets/110773497/cc6ddf5f-a7a5-4e3c-a918-b9f024b10b95)
+
+Create a new empty project for now, as we need to make some changes to Idea before we can start modding Minecraft.
+
+![image](https://github.com/CantWeAllDisagree/MinecraftJunk/assets/110773497/d0cd05c8-234f-4e1a-a84f-7aeb6dacbfae)
 
  
+<details>
+ 
+<summary>Head to the settings </summary>
+
+You do not need to update Kotlin unless you plan on using it, this tutorial will be java only
+
+
 </details>
+
+Go to the plugin tab, and make sure to install the Minecraft Development Plugin. You will need to restart IDEA for the plugin to take affect.
+
+![image](https://github.com/CantWeAllDisagree/MinecraftJunk/assets/110773497/8849fd44-e31a-4d8c-9877-581285598658)
+
+
+<details>
+<summary>My Plugins</summary>
+ 
+![image](https://github.com/CantWeAllDisagree/MinecraftJunk/assets/110773497/6207dc77-2949-4c92-8915-bae285de9aa2)
+
+
+</details>
+
+When you create a new project you should now see a option for Minecraft
+
+![image](https://github.com/CantWeAllDisagree/MinecraftJunk/assets/110773497/4ff55ed5-2e9a-4800-90bb-da979cbd7548)
+![image](https://github.com/CantWeAllDisagree/MinecraftJunk/assets/110773497/b47a36b7-f560-44a8-a560-758eb168e4e6)
+
+
+
+
